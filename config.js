@@ -3,17 +3,17 @@ let chalk = require('chalk')
 
   // OWNER CONTOH EDIT : ['NOMORMU AWALI DENGAN 62 TANPA 0', 'NAMAMU', true]
 owner = [
-['6281283516246', 'Maximus Store', true]
+['6285766450735', 'ga tau tu', true]
 ] 
 
   // AUTOBACKUP DATABASE
-backup = '6281283516246'
+backup = '6285766450735'
 
   // MODERATOR
-mods = ['6288225750488'] 
+mods = ['6285766450735'] 
 
   // PREMIUM USERS
-prems = ['6281283516246']
+prems = ['6285766450735']
 
   // APIKEYS
 global.lolkey = 'APIKEYLU'
